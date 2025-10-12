@@ -1,4 +1,4 @@
-code to accompany "Multiple Environmental Conditions Precede Ebola Spillovers in Central Africa" by Baranowski and Bharti, submitted to Biology letters
+code to accompany "Multiple Environmental Conditions Precede Ebola Spillovers in Central Africa" by Baranowski and Bharti, 2025, submitted to Biology letters
 
 Data for this manuscript come from open-source data: 
 MODIS MYD13Q1 16-day EVI from Google Earth Engine: https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD13Q1
